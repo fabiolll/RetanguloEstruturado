@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetanguloEstruturado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1860149fe661a4d6ff043d2f479e29b13775f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetanguloEstruturado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetanguloEstruturado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

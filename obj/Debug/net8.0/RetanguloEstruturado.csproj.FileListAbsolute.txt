@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\bin\Debug\net8.0\RetanguloEstruturado.exe
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\bin\Debug\net8.0\RetanguloEstruturado.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\bin\Debug\net8.0\RetanguloEstruturado.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\bin\Debug\net8.0\RetanguloEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\bin\Debug\net8.0\RetanguloEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.sourcelink.json
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\refint\RetanguloEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\RetanguloEstruturado.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\RetanguloEstruturado\obj\Debug\net8.0\ref\RetanguloEstruturado.dll
